@@ -1,0 +1,53 @@
+Change Component Designator: OldDesignator=*1 NewDesignator=*
+Change Component Designator: OldDesignator=C1 NewDesignator=C9
+Change Component Designator: OldDesignator=C2 NewDesignator=C12
+Change Component Designator: OldDesignator=C3 NewDesignator=C11
+Change Component Designator: OldDesignator=C4 NewDesignator=C15
+Change Component Designator: OldDesignator=C5 NewDesignator=C2
+Change Component Designator: OldDesignator=C6 NewDesignator=C3
+Change Component Designator: OldDesignator=C7 NewDesignator=C13
+Change Component Designator: OldDesignator=C8 NewDesignator=C16
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C17
+Change Component Designator: OldDesignator=C11 NewDesignator=C21
+Change Component Designator: OldDesignator=C12 NewDesignator=C20
+Change Component Designator: OldDesignator=C13 NewDesignator=C18
+Change Component Designator: OldDesignator=C14 NewDesignator=C1
+Change Component Designator: OldDesignator=C15 NewDesignator=C7
+Change Component Designator: OldDesignator=C16 NewDesignator=C19
+Change Component Designator: OldDesignator=C17 NewDesignator=C4
+Change Component Designator: OldDesignator=C18 NewDesignator=C6
+Change Component Designator: OldDesignator=C19 NewDesignator=C8
+Change Component Designator: OldDesignator=C20 NewDesignator=C5
+Change Component Designator: OldDesignator=C21 NewDesignator=C14
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=IC1 NewDesignator=IC2
+Change Component Designator: OldDesignator=IC2 NewDesignator=IC1
+Change Component Designator: OldDesignator=P2 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P2
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R9
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R4
+Change Component Designator: OldDesignator=R8 NewDesignator=R2
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Added Member To Class: ClassName=RP2040-MCU Member=Component C1 1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C2 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C3 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C8 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C13 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C15 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C18 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C19 22 pF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C20 22 pF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C21 1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component D3 Green
+Added Member To Class: ClassName=RP2040-MCU Member=Component IC2 LD1117S33TR
+Added Member To Class: ClassName=RP2040-MCU Member=Component P4 61300421121
+Added Member To Class: ClassName=RP2040-MCU Member=Component R3 240 Ohms
+Added Member To Class: ClassName=RP2040-MCU Member=Component R8 240 Ohms
+Added Member To Class: ClassName=RP2040-MCU Member=Component R9 240 Ohms

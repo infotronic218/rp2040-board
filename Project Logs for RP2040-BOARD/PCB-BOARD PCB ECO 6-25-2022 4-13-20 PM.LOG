@@ -1,0 +1,26 @@
+Change Net Name : Old Net Name=NetR4_1 New Net Name=USB0_N
+Change Net Name : Old Net Name=NetR6_1 New Net Name=USB0_P
+Added Differential Pair: Name=USB0
+Added Member To Class: ClassName=RP2040-MCU Member=Component C1 1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C2 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C3 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C4 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C7 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C9 22 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C10 10 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C11 22 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C12 10 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C16 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C17 1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C18 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C20 22 pF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C21 1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component D2 Red
+Added Member To Class: ClassName=RP2040-MCU Member=Component IC2 LD1117S33TR
+Added Member To Class: ClassName=RP2040-MCU Member=Component P2 61301811121
+Added Member To Class: ClassName=RP2040-MCU Member=Component R1 240 Ohms
+Added Member To Class: ClassName=RP2040-MCU Member=Component R5 240 Ohms
+Added Member To Class: ClassName=RP2040-MCU Member=Component R6 240 Ohms
+Added Member To Class: ClassName=RP2040-MCU Member=Component R7 240 Ohms
+Added Member To Class: ClassName=RP2040-MCU Member=Component R8 240 Ohms
+Added Member To Class: ClassName=RP2040-MCU Member=Component R9 240 Ohms

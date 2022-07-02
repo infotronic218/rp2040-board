@@ -1,0 +1,35 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [RP2040-BOARD.PrjPcb]
+   Generated File[PCB-BOARD.GTO]
+   Generated File[PCB-BOARD.GTP]
+   Generated File[PCB-BOARD.GTS]
+   Generated File[PCB-BOARD.GTL]
+   Generated File[PCB-BOARD.G1]
+   Generated File[PCB-BOARD.G2]
+   Generated File[PCB-BOARD.GBL]
+   Generated File[PCB-BOARD.GBS]
+   Generated File[PCB-BOARD.GBP]
+   Generated File[PCB-BOARD.GBO]
+   Generated File[PCB-BOARD.GM1]
+   Generated File[PCB-BOARD.GM2]
+   Generated File[PCB-BOARD.GM3]
+   Generated File[PCB-BOARD.GM4]
+   Generated File[PCB-BOARD.GM10]
+   Generated File[PCB-BOARD.GM11]
+   Generated File[PCB-BOARD.GM12]
+   Generated File[PCB-BOARD.GM13]
+   Generated File[PCB-BOARD.GM14]
+   Generated File[PCB-BOARD.GM15]
+   Generated File[PCB-BOARD.GM16]
+   Generated File[PCB-BOARD.GPT]
+   Generated File[PCB-BOARD.GPB]
+   Generated File[PCB-BOARD.RUL]
+   Generated File[PCB-BOARD.EXTREP]
+   Generated File[PCB-BOARD.REP]
+
+
+Files Generated   : 26
+Documents Printed : 0
+
+Finished Output Generation At 12:11:08 AM On 6/28/2022

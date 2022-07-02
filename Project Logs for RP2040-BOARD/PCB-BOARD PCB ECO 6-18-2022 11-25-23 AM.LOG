@@ -1,0 +1,92 @@
+Added Component: Designator=D2(LED 1206_3216 RED)
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kingbrightusa.com/images/catalog/SPEC/APTD3216LSURCK.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/kingbright/APTD3216LSURCK/7043080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Test"; Value = "2mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "1.90mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "6/18/2022 6:39:53 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Size"; Value = "1.60mm Dia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Round with Domed Top"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "150mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "APTD3216LSURCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "3.20mm L x 1.60mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "2-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "754-2050-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "40°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "1.75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Dominant"; Value = "630nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Peak"; Value = "645nm"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES 0805_2012)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C328.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PB6D2400V/6213729"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.028" (0.70mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "6/18/2022 6:27:53 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-PB6D2400V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "27745"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.25W, 1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "240 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ-PB6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P20946CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±50ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "240 Ohms"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=IO14 Pin=R10-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R10-2
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=RP2040-MCU Member=Component C4 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C6 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C8 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C9 22 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C10 10 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C11 22 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C12 10 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C13 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C14 1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component C15 0.1 µF
+Added Member To Class: ClassName=RP2040-MCU Member=Component D2 Red
+Added Member To Class: ClassName=RP2040-MCU Member=Component IC1 TMP37GRTZ-REEL7
+Added Member To Class: ClassName=RP2040-MCU Member=Component P4 61300421121
+Added Member To Class: ClassName=RP2040-MCU Member=Component R1 240 Ohms
+Added Member To Class: ClassName=RP2040-MCU Member=Component R5 240 Ohms
+Added Member To Class: ClassName=RP2040-MCU Member=Component R6 240 Ohms
+Added Member To Class: ClassName=RP2040-MCU Member=Component R7 240 Ohms
+Added Member To Class: ClassName=RP2040-MCU Member=Component R9 240 Ohms
+Added Member To Class: ClassName=RP2040-MCU Member=Component R10 240 Ohms
